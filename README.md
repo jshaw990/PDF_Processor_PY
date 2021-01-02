@@ -2,7 +2,7 @@
 A simple Python 3 script to combine multiple PDF files into a single document. 
 
 ## Installation
-1. Fork or Clone the GitHub Repository 
+1. Fork or Clone the [GitHub Repository](https://github.com/jshaw990/PDF_Processor_PY)
 2. Install `pip3 install PyPDF2`
 
 ## Usage
